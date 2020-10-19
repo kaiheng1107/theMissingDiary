@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 0ade48c1fcb77c443bdc13064785290a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Music_stand_txr
+    second: {fileID: 2100000, guid: 9845ffbe3926c3d41a89173502649fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_Red_txr
+    second: {fileID: 2100000, guid: 94e1793e79df8f6478b1004dfb8059ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_blue_txr
+    second: {fileID: 2100000, guid: 45053dadad2a51147a733c7beaeae8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_green_txr
+    second: {fileID: 2100000, guid: f248b815d22e1cf48a484e53ccb626a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_red_txr
+    second: {fileID: 2100000, guid: ebc1bfb65b195ac4485f5e9cda3248dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottle_txr
+    second: {fileID: 2100000, guid: 2776c3a48710a314c8c41c59583da69e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet_txr
+    second: {fileID: 2100000, guid: 39df6dcade6a75f4880f8067996761d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cello_txr
+    second: {fileID: 2100000, guid: cbe9d42011667f54c9a3e13974dc04fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chairC_txr
+    second: {fileID: 2100000, guid: 7f2ee8810747ab1479e8e5d9538fe609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_txr
+    second: {fileID: 2100000, guid: f867d65317b3a574c9b171212e43951f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frames_txr
+    second: {fileID: 2100000, guid: caee00a5c53295541938d54bca99632b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground_txr
+    second: {fileID: 2100000, guid: 245fe5a26525ae84b95fbb9310737935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: houseA_txr
+    second: {fileID: 2100000, guid: 6953b28476e72f64d94f106329740774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: houseB_txr
+    second: {fileID: 2100000, guid: 0567066dbd3ec4f48a25603b9aed4d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: houseC_txr
+    second: {fileID: 2100000, guid: 64dada26bb5d18a4e866100c7b3f8caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: houseD_txr
+    second: {fileID: 2100000, guid: ee894bb142813b7428a0c70e3240c68d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: a875f098cb62b0e4888811e0bb486862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampA_txr
+    second: {fileID: 2100000, guid: 21ac3fcfc7d16fb4fbaa8311f9174f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper_txr
+    second: {fileID: 2100000, guid: a43cbefc65301f94aa3fe9eaf93dca86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plentA_txr
+    second: {fileID: 2100000, guid: 0a61afa46ce6c7241a67c51468dc6bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plent_txr
+    second: {fileID: 2100000, guid: 6f61516d6132ba944b9c9c6d95b71d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s2_chairA_txr
+    second: {fileID: 2100000, guid: a200552882dfa4c4f8cc555d7ef8306d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sc2_shelfB_txr
+    second: {fileID: 2100000, guid: 7275c7cb40c391346abccdf67898f33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scene1_08_book_blue_txr
+    second: {fileID: 2100000, guid: 228d2deeec033864989be747ff3395c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scene1_08_book_green_txr
+    second: {fileID: 2100000, guid: 1c6a2675df5c1ab4e8ff930b727201fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scene1_08_lampB_txr
+    second: {fileID: 2100000, guid: bfa2de99eb719c54eaaec65a353e6ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scene1_08_shelfD_txr
+    second: {fileID: 2100000, guid: 1e5e50b176022ee44a28124ea5897a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheet_musicA_txr
+    second: {fileID: 2100000, guid: aa504e3be9045c5428a69b7c7cad2fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelfA
+    second: {fileID: 2100000, guid: b04726fb24f5d5949a664112294961c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelfD_txr
+    second: {fileID: 2100000, guid: 981816020f325a74eb0c1e3a149c20b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelf_A_txr
+    second: {fileID: 2100000, guid: 9e32398e783caba4387b6c3584f85b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidewalk_txr
+    second: {fileID: 2100000, guid: 1105fec17585eb7438dec21d8fbe1dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tableA_txr
+    second: {fileID: 2100000, guid: 242a0257009f1f74585bca01e06deab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tableB_txr
+    second: {fileID: 2100000, guid: fdaf63bb378c32f4799f51034d56990c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tableD_txr
+    second: {fileID: 2100000, guid: b6b0e235faa614348b6fc356c1ca7f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trumput_txr
+    second: {fileID: 2100000, guid: 28b3de0b7fe456f439d7871e1c9dbd9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vase_txr
+    second: {fileID: 2100000, guid: d8e439e401348c54ba0883864912c406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: violin_bow_txr
+    second: {fileID: 2100000, guid: bb1a7c98cd3d50f4a81dfd47bdeb200a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: violin_txr
+    second: {fileID: 2100000, guid: b81e2d6532abb8a4c9c5f85f64fa6519, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
